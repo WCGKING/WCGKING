@@ -3,6 +3,8 @@
 ㅤ[![GIF](https://github.com/WCGKING/WCGKING/blob/main/WCGKING.gif)](https://github.com/WCGKING)
    [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")
 
+   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝗕𝗥𝗔𝗡𝗗𝗘𝗗+𝗞𝗜𝗡𝗚 +🌿">
+
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/WCGKING/count.svg" />
