@@ -20,6 +20,11 @@
   <img src="https://te.legra.ph/file/b5a457725d59cc7765dde.jpg">
 </p> 
 
+# Github Streak ☠︎︎
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=WCGKING&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://WCGKING.me)
+
+
 <h1>ʜɪ ! ɪᴛ's ᴍᴇ ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
 <h2>ᴛᴇᴄʜ sᴛᴀᴄᴋ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"</img></h2>
