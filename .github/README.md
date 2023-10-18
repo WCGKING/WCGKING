@@ -1,4 +1,8 @@
 # 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚  
+
+ㅤ[![GIF](https://github.com/WCGKING/WCGKING/blob/main/WCGKING.gif)](https://github.com/WCGKING)
+   [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")
+
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/WCGKING/count.svg" />
