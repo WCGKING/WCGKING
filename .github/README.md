@@ -44,6 +44,14 @@
   
 
 [<img src="https://github-readme-stats.vercel.app/api?username=WCGKING&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/WCGKING) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=WCGKING&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/WCGKING)
+
+
+![Profile views](https://gpvc.arturio.dev/WCGKING)
+
+<p align="center"><a href="https://github.com/WCGKING"><img src="https://github-readme-stats.vercel.app/api?username=WCGKING&show_icons=true&theme=radical"></a></p>
+
+<p align="center"><a href="https://github.com/WCGKING"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCGKING1&theme=radical&layout=compact"></a></p>
+
     
 
 
