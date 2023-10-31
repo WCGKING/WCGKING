@@ -50,7 +50,7 @@
 
 <p align="center"><a href="https://github.com/WCGKING"><img src="https://github-readme-stats.vercel.app/api?username=WCGKING&show_icons=true&theme=radical"></a></p>
 
-<p align="center"><a href="https://github.com/WCGKING"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCGKING1&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/WCGKING"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCGKING&theme=radical&layout=compact"></a></p>
 
     
 
