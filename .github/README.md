@@ -1,4 +1,4 @@
- <h1> <img src="https://te.legra.ph/file/b5a457725d59cc7765dde.jpg" height="90px" width="80px"> 𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘 , 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚  </h1>
+ <h1> <img src="https://te.legra.ph/file/b5a457725d59cc7765dde.jpg" height="90px" width="80px"> 𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘 , 𝗧𝗛𝗜𝗦 𝗜𝗦 ʙʀᴀɴᴅᴇᴅ 𓆩🇽𓆪 ᴋɪɴɢ  </h1>
 <p align="center">
 
 ㅤ[![GIF](https://github.com/WCGKING/WCGKING/blob/main/WCGKING.gif)](https://github.com/WCGKING)
