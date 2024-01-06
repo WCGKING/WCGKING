@@ -43,9 +43,9 @@
 
 | <a href="https://t.me/BRANDEDKING82"><img 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[ᴀsʜᴏᴋ ʙɪsʜɴᴏɪ ᴏᴡɴᴇʀ ᴏғ ᴍʏ ᴏᴡɴ ᴡᴏʀʟᴅ 🌎](https://t.me/BRANDEDKING82)**                                                                                |
+|       **[ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ ᴏᴡɴᴇʀ ᴏғ ᴍʏ ᴏᴡɴ ᴡᴏʀʟᴅ 🌎](https://t.me/BRANDEDKING82)**                                                                                |
 | <a href="https://t.me/BRANDRD_BOT"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a 
-                                                                                                                                                                       href="https://www.instagram.com/lokesk_x82"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a> <a                                                                                                                                                              href="https://www.youtube.com/channel/TrickyBranded"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>
+  href="https://www.instagram.com/lokesk_x82"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a> <a                    href="https://www.youtube.com/channel/TrickyBranded"<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>                                                                                                                                                                                                                                                                                                           
 
    
     
