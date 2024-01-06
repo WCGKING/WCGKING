@@ -17,10 +17,6 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/WCGKING/count.svg" />
 </p>
 
-<p align="center">
-  <img src="https://te.legra.ph/file/b5a457725d59cc7765dde.jpg">
-</p> 
-
 # Github Streak ☠︎︎
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=WCGKING&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://WCGKING.me)
