@@ -41,13 +41,6 @@
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCGKING&theme=radical&layout=compact">](https://github.com/WCGKING)
 
 
-![Profile views](https://gpvc.arturio.dev/WCGKING)
-
-<p align="center"><a href="https://github.com/WCGKING"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCGKING&theme=radical&layout=compact"></a></p>
-
-    
-
-
 | <a href="https://t.me/BRANDEDKING82"><img 
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[ᴀsʜᴏᴋ ʙɪsʜɴᴏɪ ᴏᴡɴᴇʀ ᴏғ ᴍʏ ᴏᴡɴ ᴡᴏʀʟᴅ 🌎](https://t.me/BRANDEDKING82)**                                                                                |
