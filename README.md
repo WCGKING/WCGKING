@@ -69,13 +69,16 @@
 
 ---
 
-### `$ ./activity --graph`
+### 📈 𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WCGKING&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%"/>
+<a href="https://github.com/WCGKING">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WCGKING&theme=github-dark&area=true&hide_border=true&custom_title=WCGKING%20Contribution%20Graph" width="100%" alt="WCGKING Activity Graph"/>
+</a>
 
 </div>
+
 
 ---
 
