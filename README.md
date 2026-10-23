@@ -74,7 +74,7 @@
 <div align="center">
 
 <a href="https://github.com/WCGKING">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?WCGKING=WCGKING&theme=github-dark&area=true&hide_border=true&custom_title=WCGKING%20Contribution%20Graph" width="100%" alt="WCGKING Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?WCGKING=BRANDEDKING&theme=github-dark&area=true&hide_border=true&custom_title=WCGKING%20Contribution%20Graph" width="100%" alt="WCGKING Activity Graph"/>
 </a>
 
 </div>
